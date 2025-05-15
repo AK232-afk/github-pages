@@ -8,7 +8,7 @@
 
 ## Emphasis
 
-**The screenshot in the tableau highlighted in plain orange that Drake has the most popularity followers totalled 31,703
+**This is how I compared the artists with different categories at tableau and see which has the most spofity followers. 
 _This will also be italic_
 
 **The screenshot in the tableau highlighted in plain orange that Drake has the most popularity followers totalled 31,703**  
@@ -17,6 +17,8 @@ __The artist Giuseppe Verdi has the most tempo highlighted in light pink 140,096
 _You **can** combine them_
 
 ## Lists
+- Drake- 31,703 most popularity
+- Giuseppe Verdi- 140,096 most tempo
 
 ### Unordered
 
