@@ -1,6 +1,6 @@
 # Project 1 Tableau
 
-## Artist in Spotify
+## Artists in Spotify
 
 **This is how I compared the artists with different categories at tableau and see which has the most spofity followers. 
 
