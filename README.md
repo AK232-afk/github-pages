@@ -24,7 +24,7 @@ __The second screenshot artist Giuseppe Verdi has the most tempo highlighted in 
 
 ## Links
 
-You may be using [Markdown Live Preview](https://github.com/AK232-afk/github-pages/edit/main/README.md).
+[Markdown Live Preview](https://github.com/AK232-afk/github-pages/edit/main/README.md).
 
 
 
