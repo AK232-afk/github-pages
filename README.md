@@ -38,7 +38,7 @@ _You **can** combine them_
 ## Images
 
 ![Screenshot of Tableau](Tableau_png.png)
-![Screenshot of Tableau]
+![Screenshot of Tableau](Screenshot_png_popularity.png)
 
 ## Links
 
