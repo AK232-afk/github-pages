@@ -1,6 +1,3 @@
-# Markdown syntax guide
-
-
 # Project 1 Tableau
 
 ## Artist in Spotify
