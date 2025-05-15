@@ -37,7 +37,7 @@ _You **can** combine them_
 
 ## Images
 
-![Screenshot of Tableau]()
+![Screenshot of Tableau](Tableau_png.png)
 
 ## Links
 
